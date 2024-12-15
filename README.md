@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 Sobre mí  
-Soy un apasionado del desarrollo de software en constante aprendizaje. Me encanta trabajar en proyectos que combinan **creatividad** y **tecnología**, explorando nuevas formas de crear soluciones innovadoras y útiles para la sociedad. Como estudiante, estoy enfocado en mejorar mis habilidades y construir una base sólida para mi futuro profesional.  
+Soy estudiante de Ingeniería de Software, apasionado por el levantamiento de pesas, la música y el dibujo. Me gusta combinar mis intereses creativos con la tecnología para resolver problemas y construir soluciones útiles. Siempre estoy buscando mejorar mis habilidades y explorar nuevas ideas que puedan marcar la diferencia en el desarrollo de software y en la vida cotidiana.
 
 ---
 
@@ -15,16 +15,13 @@ Soy un apasionado del desarrollo de software en constante aprendizaje. Me encant
 - Spring Boot  
 - Node.js  
 - Express  
-
 #### 🔹 **Frontend**  
 - React  
 - Tailwind CSS  
 - Flutter  
-
 #### 🔹 **Bases de Datos**  
 - MySQL  
 - SQLite  
-
 #### 🔹 **DevOps y Diseño**  
 - Git & GitHub  
 - Docker  
@@ -41,21 +38,19 @@ Soy un apasionado del desarrollo de software en constante aprendizaje. Me encant
 
 ### 🌱 Actualmente aprendiendo  
 Estoy expandiendo mis habilidades en:  
-- React Hooks y Context API  
 - Diseño de UI/UX en Figma  
 - Integración continua con Docker  
 
 ---
 
 ### 📫 ¡Conéctate conmigo!  
-- 💌 Correo: kevin.chacon78@example.com  
-- 🐦 [Twitter](https://twitter.com/kevinch78)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-chacon78/)  
+- 💌 Correo: Chachinoykevin@gmail.com
+- 💌 Correo alternativo: kevinchi78@gmail.com    
 
 ---
 
 ### ⚡ Algo curioso sobre mí  
-Siempre estoy buscando formas de combinar **tecnología** y **impacto social** para crear un mundo mejor. Me inspira la idea de que con código, podemos cambiar vidas. 🌍  
+"Siempre me gusta pensar en soluciones mientras hago las cosas que disfruto en mi día a día, como escuchar música o dibujar. A menudo, me encuentro imaginando formas de ayudar, ya sea a mi familia, a mis vecinos o a quienes me rodean. La tecnología me da la oportunidad de convertir esas ideas en algo real y útil." 🌍  
 
 ---
 
